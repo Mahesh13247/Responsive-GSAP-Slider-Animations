@@ -55,7 +55,7 @@ h1 {
   margin: 0 !important;
 }
 h2 {
-  font-family: "Lexend";
+  font-family:sans-serif;
   font-size: 40px;
   line-height: normal;
   margin: 0;
@@ -87,7 +87,7 @@ h1 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  mask-image: url(Images/cane.svg);
+  mask-image: url(cane.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-position: center center;
